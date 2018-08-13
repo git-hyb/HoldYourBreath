@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{02AA062E-492A-D33E-1D8B-539041432B91}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "HoldYourBreath",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
